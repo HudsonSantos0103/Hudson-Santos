@@ -1,5 +1,5 @@
 Oi, Meu nome é Hudson.
-Sou Tec. Desenvolvimento de Sistemas 2/3.
+Sou Tec. Desenvolvimento de Sistemas 3/3.
 Gosto de praticar esportes de artes marciais.
 <!---
 Hudson-Physics/Hudson-Physics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
