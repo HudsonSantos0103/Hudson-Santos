@@ -28,7 +28,7 @@ Bem-vindo ao meu perfil GitHub 🚀
 ---
 
 - <p align="center">
-  🚀 <i>"Às vezes, são as pessoas de quem ninguém espera nada que fazem as coisas que ninguém consegue imaginar."</i> — Alan Turing
+  🚀 <i>“O futuro pertence àqueles que acreditam na beleza de seus sonhos.”</i> — Eleanor Roosevelt
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HudsonSantos0103&color=blue&style=flat" />
