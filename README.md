@@ -3,8 +3,8 @@
 Bem-vindo ao meu perfil GitHub 🚀
 
 - 🎓 Estudante de **Desenvolvimento de Sistemas** na **EEEP COMENDADOR MIGUEL GURGEL**
-- 💻 Focado em **Desenvolvimento FullStack**
-- 🐍 Estudando Python
+- 💻 Focado em **Desenvolvimento Full Stack**
+- 🐍 Python (em aprendizado contínuo)
 - 🔍 Buscando **estágio e oportunidades** para crescer junto com profissionais experientes
 - ⚡ Curioso, dedicado e apaixonado por resolver problemas com código
 
@@ -31,5 +31,5 @@ Bem-vindo ao meu perfil GitHub 🚀
   🚀 <i>"Às vezes, são as pessoas de quem ninguém espera nada que fazem as coisas que ninguém consegue imaginar."</i> — Alan Turing
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lacerdadev0&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=HudsonSantos0103&color=blue&style=flat" />
 </p>
