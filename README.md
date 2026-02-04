@@ -1,7 +1,35 @@
-Oi, Meu nome é Hudson.
-Sou Tec. Desenvolvimento de Sistemas 3/3.
-Gosto de praticar esportes de artes marciais.
-<!---
-Hudson-Physics/Hudson-Physics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Olá, me chamo Hudson Santos!
+
+Bem-vindo ao meu perfil GitHub 🚀
+
+- 🎓 Estudante de **Desenvolvimento de Sistemas** na **EEEP COMENDADOR MIGUEL GURGEL**
+- 💻 Focado em **Desenvolvimento FullStack**
+- 🐍 Estudando Python
+- 🔍 Buscando **estágio e oportunidades** para crescer junto com profissionais experientes
+- ⚡ Curioso, dedicado e apaixonado por resolver problemas com código
+
+---
+
+
+## ⭐ Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,java,git,github,mysql,postgresql" />
+</p>
+
+
+---
+
+
+## 📫 Contato
+- 📧 Email: hudsonjudo43@gmail.com 
+- 💼 LinkedIn: https://linkedin.com/in/hudson-santos-533a38340
+
+  
+---
+
+- <p align="center">
+  🚀 <i>"Às vezes, são as pessoas de quem ninguém espera nada que fazem as coisas que ninguém consegue imaginar."</i> — Alan Turing
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lacerdadev0&color=blue&style=flat" />
+</p>
